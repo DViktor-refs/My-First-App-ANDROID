@@ -1,4 +1,4 @@
-# My-First-App-android-
+#  Random letter generator for the "Ország-város-fiú-lány"game  (Android)
 
 Application presentation video: 
 https://www.youtube.com/watch?v=X9R0EeQhhSY
